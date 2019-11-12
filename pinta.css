@@ -1,0 +1,27 @@
+.fondobonito{
+	background-color: gray
+}
+.azulito{
+margin-left:50px;
+font-size: 15pt;
+color:azure;
+font: sans-serif;
+}
+.rosita{
+margin-left:60px;
+font-size: 13pt;
+color:pink;
+font: sans-serif;
+}
+.centremoslo{
+	text-align-last: center;
+	font-size: 25px;
+	font: serif	;
+}
+.paraloslinks{
+	background-color:purple;
+	color:white;
+	font-variant:uppercase;
+	text-decoration: none;
+	display:inline-block;
+}
